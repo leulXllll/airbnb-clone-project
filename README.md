@@ -2,7 +2,6 @@
 ## This is air-bnb website clone 
 
 ###  The project goal is to replicate airbnb web app 
-## Tech Stack include mysql , django 
 
 ## Team Roles
 
@@ -10,3 +9,13 @@
 ### Database Admin - Responsible for managing the database 
 ### Devops - works in both development and deployment stages and esure
 ### QA - tests the code and make sure they perform as expected
+
+## Technology Stack
+### Stacks Inlcude Django , PostgreSQL , GraphQL
+### Django - python framwork for building api and backend
+### PostgreSql - A relational SQL database used for storage
+### GraphQL -  Provides a flexible query language for retrieving and manipulating data.
+### Celery - to handle asynchronous tasks
+### Redis -  Used for caching and session management
+### Docker -  Containerization tool
+### CI/CD Pipelines-  for testing and deploying code change
