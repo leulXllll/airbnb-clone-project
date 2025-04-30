@@ -19,3 +19,28 @@
 ### Redis -  Used for caching and session management
 ### Docker -  Containerization tool
 ### CI/CD Pipelines-  for testing and deploying code change
+
+## Database Design 
+### Entities - Users , Reviews , Bookings ,Properties, Payments
+### Fields - Users(names,id,email,password), Reviews(reviewId,Comment,rating) , Bookings(BookingId,PropertyId,UserId) , Properties(ProperyId,PropertyName,PropertyLocation) , Payments(paymentId,amount,recieverId)
+### Relationships - A user can have Multiple property , A User can have multiple Payments , a user can also have multiple bookings and reviews, Reviews belong to a user and property 
+
+## Feature BreakDown
+### User Management - A user can signup be authenticated and authorized. In addtion a user can manage profile.
+### Booking System - Create booking system so users can reserve spot  and manages booking details
+### Property Management - Features that include creation deletion updating and reading properties
+### Payment Processing - process payment  and handle multiple transactions;
+### Review System - Allow users to comment or leave review and their own ratings
+### Data Optimization - fast retrieval of data from database
+
+
+## API Security
+
+### Authentication
+### Authorization
+### Form validation
+### Error handling
+### Token Management
+### Rate Limitng - For DDos protection
+
+### Security is very important in an organization it plays key role in company success and winning Customer's trust. Secure Payment transasctions and safe user passwords are crucial.
