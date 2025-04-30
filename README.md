@@ -44,3 +44,10 @@
 ### Rate Limitng - For DDos protection
 
 ### Security is very important in an organization it plays key role in company success and winning Customer's trust. Secure Payment transasctions and safe user passwords are crucial.
+
+## CI/CD Pipeline
+
+### A Continous Integration and Continous Development Process are set of steps developers follow to develop new softwares and ship them efficinetly
+### They helps us to quickly integrate updates and changes to code 
+### Tools include containerization like docker , Github Actions for the pipeline
+### 
