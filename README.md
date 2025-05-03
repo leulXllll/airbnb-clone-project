@@ -3,6 +3,7 @@
 
 ###  The project goal is to replicate airbnb web app 
 
+# Backend ReadMe
 ## Team Roles
 
 ### Backend Developer - Creates the server side code, implements different api end points, designs database schema, optimize code for better performance
@@ -52,7 +53,7 @@
 ### Tools include containerization like docker , Github Actions for the pipeline
 ### 
 
-## Front-End
+# Front-End Readme
 ## UI/UX Design Planning.
 ### Design user freindly UI
 ### Ensure a consistent brand identity across the application.
@@ -61,3 +62,33 @@
 ### Simple Checkout View: A streamlined process for booking properties.
 ### Search Functionality: A robust search feature enabling users to find properties based on criteria like location, price, and availability.
 ### User friendly websites are very crucial as people tend to leave websites if the user interface is not pleasant
+
+### Color Styles:
+### Primary: #FF5A5F
+### Secondary: #008489
+### Background: #FFFFFF
+### Text: #222222
+### Secondary Text: #717171
+
+### Typography:
+
+### Primary Font: Circular, Medium (500), 16px
+### Headings: Circular, Bold (700), 24px-32px
+### Secondary Text: Circular, Book (400), 14px
+### These colors, font size and font type work seamlessly to create nice user interface
+
+## Project Roles and Responsibilities
+### Scrum Master- Facilitates the agile production enviroment
+### Product Owner - Defines requirements, prioritizes features, represents stakeholders
+### Designer - Creates mockups, maintains design system, ensures UX quality
+### Frontend Developer - Implements the UI component
+### Backend Developer - Creates the server side code, implements different api end points, designs database schema, optimize code for better performance
+### Database Admin - Responsible for managing the database 
+### Devops - works in both development and deployment stages and esure
+### QA - tests the code and make sure they perform as expected
+
+## UI Component Patterns
+### NavBar
+### Footer
+### PropertyList
+### PropertyCard
