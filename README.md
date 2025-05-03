@@ -25,7 +25,7 @@
 ### Fields - Users(names,id,email,password), Reviews(reviewId,Comment,rating) , Bookings(BookingId,PropertyId,UserId) , Properties(ProperyId,PropertyName,PropertyLocation) , Payments(paymentId,amount,recieverId)
 ### Relationships - A user can have Multiple property , A User can have multiple Payments , a user can also have multiple bookings and reviews, Reviews belong to a user and property 
 
-## Feature BreakDown
+## Feature Breakdown
 ### User Management - A user can signup be authenticated and authorized. In addtion a user can manage profile.
 ### Booking System - Create booking system so users can reserve spot  and manages booking details
 ### Property Management - Features that include creation deletion updating and reading properties
