@@ -1,5 +1,5 @@
 # airbnb-clone-project
-## This is air-bnb website clone 
+## This is air-bnb website clone Backend
 
 ###  The project goal is to replicate airbnb web app 
 
@@ -51,3 +51,13 @@
 ### They helps us to quickly integrate updates and changes to code 
 ### Tools include containerization like docker , Github Actions for the pipeline
 ### 
+
+## Front-End
+## UI/UX Design Planning.
+### Design user freindly UI
+### Ensure a consistent brand identity across the application.
+### Property Listing View: A page displaying various property listings with essential details and images.
+### Listing Detailed View: A detailed view of a specific property, including more extensive information and images.
+### Simple Checkout View: A streamlined process for booking properties.
+### Search Functionality: A robust search feature enabling users to find properties based on criteria like location, price, and availability.
+### User friendly websites are very crucial as people tend to leave websites if the user interface is not pleasant
